@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Q31
+public class SIMPLE_INTEREST
+
 {
  public static void main(String[] args) throws Exception 
  {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q32 
+public class DIGIT_EXTRACTION 
 { 
  public static void main(String args[]) throws Exception
  {

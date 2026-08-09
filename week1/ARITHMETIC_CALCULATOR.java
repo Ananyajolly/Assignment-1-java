@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Q29 {
+public class ARITHMETIC_CALCULATOR
+ {
     public static void main(String[] args) throws Exception {
         System.out.println("ARTHEMATIC CALCULATOR");
         Scanner input = new Scanner(System.in);

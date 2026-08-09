@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Q30
+public class TEMPERATURE_CONVERSION
+
 {
     public static void main(String[] args) throws Exception 
     {
